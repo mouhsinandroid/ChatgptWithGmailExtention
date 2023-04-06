@@ -1,0 +1,10 @@
+{
+    "name": "Chatgpt + Gmail", 
+    "version": "1.0.0", 
+    "description": "This is an extension to connect Gmail with GPT",  
+    "manifest_version": 3, 
+    "author": "Mouhsin BOUR QAIBA",
+    "action": {
+        "default_popup": "index.html"
+    }
+}
